@@ -34,5 +34,5 @@
 ---
 
 ### 💬 Developer's Note
-After a long period of hard work, this mod is finally reaching its final stages. Have an amazing funkin' night with Rei, Asuka, and Kaoru! 
-Feel free to share your feedback or report bugs.
+This mod was **fully developed by a single solo developer**—from asset creation to coding! It feels incredible to finally reach the finish line. Have an amazing funkin' night with Rei, Asuka, and Kaoru! Since I made this entirely on my own, your feedback and bug reports mean the world to me.
+
